@@ -13,7 +13,7 @@
 </location>
 <location path="${project_loc:com.isencia.passerelle.target-platform}/target/platform" type="Directory"/>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-<unit id="org.eclipse.egit.feature.group" version="4.0.1.201506240215-r"/>
+<unit id="org.eclipse.egit.feature.group" version="4.0.2.201509141540-r"/>
 <repository location="http://download.eclipse.org/egit/updates/"/>
 </location>
 </locations>
